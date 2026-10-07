@@ -1,0 +1,9 @@
+{
+  "bereich": "router",
+  "records": [
+    {"id": "A1", "status": "freigegeben", "server_ctx": 131072, "slots": 3},
+    {"id": "A2", "status": "freigegeben", "required_ctx_per_request": 40000},
+    {"id": "A3", "status": "entwurf", "slots": 4},
+    {"id": "A4", "status": "freigegeben", "regel": "server_ctx wird gleichmaessig auf slots geteilt"}
+  ]
+}

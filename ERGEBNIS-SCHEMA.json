@@ -1,0 +1,17 @@
+{
+  "description": "Required output fields, not a filled answer or model result",
+  "ctx_per_slot": "JSON integer; floor(server_ctx / slots)",
+  "meets_requirement": "JSON Boolean",
+  "queue_order": [
+    "accepted names in requested order"
+  ],
+  "context_evidence": [
+    "exact used A record IDs"
+  ],
+  "queue_evidence": [
+    "exact used B record IDs"
+  ],
+  "ignored_evidence": [
+    "exact ignored IDs"
+  ]
+}
