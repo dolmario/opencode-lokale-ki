@@ -1,0 +1,26 @@
+{
+  "kind_a": {
+    "datei": "results/opencode/q4-final/kind-a.json",
+    "context_per_slot": 43690,
+    "context_sufficient": true,
+    "belege": [
+      {"datei": "fixtures/teil-a.json", "id": "A1"},
+      {"datei": "fixtures/teil-a.json", "id": "A2"},
+      {"datei": "fixtures/teil-a.json", "id": "A4"}
+    ]
+  },
+  "kind_b": {
+    "datei": "results/opencode/q4-final/kind-b.json",
+    "queue_reihenfolge": ["beta", "gamma", "alpha"],
+    "belege": [
+      {"datei": "fixtures/teil-b.json", "id": "B1"},
+      {"datei": "fixtures/teil-b.json", "id": "B2"},
+      {"datei": "fixtures/teil-b.json", "id": "B3"},
+      {"datei": "fixtures/teil-b.json", "id": "B4"}
+    ]
+  },
+  "children_started": 2,
+  "children_completed": 2,
+  "conflicts": [],
+  "verdict": "bestanden"
+}

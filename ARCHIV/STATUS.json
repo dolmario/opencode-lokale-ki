@@ -1,0 +1,37 @@
+{
+  "archived_date": "2026-09-19",
+  "own_synthetic_input_and_outputs": true,
+  "preserved_sources": [
+    {
+      "source": "C:\\Users\\JT\\Desktop\\llm-server\\harness-abnahme-20260919\\fixtures\\teil-a.json",
+      "path": "fixtures/teil-a.json",
+      "sha256": "fcb7aba084f14c8f36eccf7494bf83958c7f5ed07a4a3de16b19880c4396147a"
+    },
+    {
+      "source": "C:\\Users\\JT\\Desktop\\llm-server\\harness-abnahme-20260919\\fixtures\\teil-b.json",
+      "path": "fixtures/teil-b.json",
+      "sha256": "246e5693c793f77f932e5a1daa58f77ef8903772ed966556805ec57aa0d5a5e4"
+    },
+    {
+      "source": "C:\\Users\\JT\\Desktop\\llm-server\\harness-abnahme-20260919\\results\\opencode\\q4-final\\kind-a.json",
+      "path": "ARCHIV/kind-a.json",
+      "sha256": "3715de10aac40f4a065d4aec25f100a06d85ad5534e003460bf0febe283ef0e4"
+    },
+    {
+      "source": "C:\\Users\\JT\\Desktop\\llm-server\\harness-abnahme-20260919\\results\\opencode\\q4-final\\kind-b.json",
+      "path": "ARCHIV/kind-b.json",
+      "sha256": "49fdf6511104c764fe40997c934befe4200e10b864caaf460bc15556c0171977"
+    },
+    {
+      "source": "C:\\Users\\JT\\Desktop\\llm-server\\harness-abnahme-20260919\\results\\opencode\\q4-final\\synthese.json",
+      "path": "ARCHIV/synthese.json",
+      "sha256": "c86ddede137c3ab89092effce5b02656334d60a1242003907d0ca7d9a700e63e"
+    }
+  ],
+  "new_agent_run": false,
+  "new_exercise_requires_integer_floor": true,
+  "archived_context_value": 43690,
+  "archived_profile": "own q4-orchestrator; not a built-in default",
+  "child_count_is_recorded_in_archive_not_independently_replayed": true,
+  "new_checker_is_not_an_exact_reproduction_of_the_old_output_schema": true
+}

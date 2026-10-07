@@ -1,0 +1,9 @@
+{
+  "context_per_slot": 43690,
+  "context_sufficient": true,
+  "belege": [
+    {"datei": "fixtures/teil-a.json", "id": "A1"},
+    {"datei": "fixtures/teil-a.json", "id": "A2"},
+    {"datei": "fixtures/teil-a.json", "id": "A4"}
+  ]
+}

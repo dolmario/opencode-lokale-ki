@@ -1,0 +1,9 @@
+{
+  "queue_reihenfolge": ["beta", "gamma", "alpha"],
+  "belege": [
+    {"datei": "fixtures/teil-b.json", "id": "B1"},
+    {"datei": "fixtures/teil-b.json", "id": "B2"},
+    {"datei": "fixtures/teil-b.json", "id": "B3"},
+    {"datei": "fixtures/teil-b.json", "id": "B4"}
+  ]
+}

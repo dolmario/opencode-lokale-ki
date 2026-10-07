@@ -1,0 +1,22 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "provider": {
+    "local-practice": {
+      "npm": "@ai-sdk/openai-compatible",
+      "name": "Your existing local server",
+      "options": {
+        "baseURL": "http://127.0.0.1:8090/v1"
+      },
+      "models": {
+        "REPLACE_WITH_ACTUAL_MODEL_ID": {
+          "name": "Your actual model",
+          "limit": {
+            "context": 32768,
+            "output": 2048
+          }
+        }
+      }
+    }
+  },
+  "model": "local-practice/REPLACE_WITH_ACTUAL_MODEL_ID"
+}
